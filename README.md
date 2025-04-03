@@ -19,7 +19,7 @@ Output (Target):
 🔹 ML Problem Type
 Supervised Learning (Classification)
 
-Binary Classification Problem
+Binary Classification Problem 
 
 Used for Signal Processing & Object Detection
 
